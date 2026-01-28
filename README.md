@@ -1,6 +1,6 @@
-# flutter_application_1
+# Calculator_by_Flutter
 
-A new Flutter project.
+A new Flutter mini prject which hold proper working UI of a calculator with complete logic building and also tract history of calculations.
 
 ## Getting Started
 
